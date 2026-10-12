@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "name": "Cultist",
+  "assetPath": "shared:characters/cultist",
+  "renderType": "animateatlas",
+  "healthIcon": {
+    "id": "bf"
+  },
+  "flipX": false,
+  "offsets": [17, 15],
+  "cameraOffsets": [17, 15],
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "Cultist Idle Dance",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "Cultist Note Left",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "Cultist Note Down",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singUP",
+      "prefix": "Cultist Note Up",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "Cultist Note Right",
+      "offsets": [0, 0]
+    }
+  ]
+}
