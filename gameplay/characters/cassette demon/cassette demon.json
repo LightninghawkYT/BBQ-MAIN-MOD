@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "name": "Cultist",
-  "assetPath": "shared:characters/cultist",
+  "name": "Cassette Demon",
+  "assetPath": "fnf-bbq-smileyface:gameplay/characters/cassette demon/CD anims",
   "renderType": "animateatlas",
   "healthIcon": {
     "id": "bf"
@@ -12,27 +12,27 @@
   "animations": [
     {
       "name": "idle",
-      "prefix": "Cultist Idle Dance",
+      "prefix": "CD Idle Dance",
       "offsets": [0, 0]
     },
     {
       "name": "singLEFT",
-      "prefix": "Cultist Note Left",
+      "prefix": "CD Left Note",
       "offsets": [0, 0]
     },
     {
       "name": "singDOWN",
-      "prefix": "Cultist Note Down",
+      "prefix": "CD Down Note",
       "offsets": [0, 0]
     },
     {
       "name": "singUP",
-      "prefix": "Cultist Note Up",
+      "prefix": "CD Up Note",
       "offsets": [0, 0]
     },
     {
       "name": "singRIGHT",
-      "prefix": "Cultist Note Right",
+      "prefix": "CD Right Note",
       "offsets": [0, 0]
     }
   ]
