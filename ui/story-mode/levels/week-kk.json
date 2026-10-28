@@ -1,22 +1,22 @@
 {
   "version": "1.0.0",
   "name": "KITKAT",
-  "titleAsset": "storymenu/titles/week-kk",
+  "titleAsset": "ui/story-mode/levels/week7",
   "props": [
     {
-      "assetPath": "storymenu/props/KitKat",
+      "assetPath": "ui/story-mode/props/spaghetti",
       "scale": 0.6,
       "offsets": [87, 10],
       "animations": [
         {
-          "name": "idle",
-          "prefix": "menusprite0",
-          "frameRate": 24
+          "name": "spin",
+          "prefix": "SPL_0",
+          "looped": true
         }
       ]
     },
     {
-      "assetPath": "storymenu/props/bf",
+      "assetPath": "ui/story-mode/props/bf",
       "scale": 1.0,
       "offsets": [150, 80],
       "animations": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "assetPath": "storymenu/props/gf",
+      "assetPath": "ui/story-mode/props/gf",
       "scale": 1.0,
       "offsets": [200, 80],
       "animations": [
